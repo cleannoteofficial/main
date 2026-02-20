@@ -89,7 +89,7 @@ const CONFIG = {
 
         // 거주 청소
         residence: {
-            basePrice: 0,
+            basePrice: 220000,
             priceNote: '상담 후 결정',
         },
 
@@ -155,8 +155,8 @@ const CONFIG = {
     servicePagePrices: {
         'ipju-cleaning':      '17만원~',
         'moving-cleaning':    '17만원~',
-        'residence-cleaning': '10만원~',
-        'office-cleaning':    '10만원~',
+        'residence-cleaning': '22만원~',
+        'office-cleaning':    '17만원~',
         'store-cleaning':     '10만원~',
         'building-cleaning':  '10만원~',
         'regular-cleaning':   '10만원~',
